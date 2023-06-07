@@ -1,0 +1,48 @@
+<!DOCTYPE html>s
+<head>
+
+    <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <title>alura books</title>
+        <link rel="stylesheet" href="styles/header.css">
+        <link rel="stylesheet" href="reset.css">
+        <link rel="stylesheet" href="styles/style.css">
+
+</head>
+
+<body>
+         <header class="cabeçalho">
+            <div class="container">
+               <span class="cabeçalho_MENU-HAMBURGUER container_IMAGEM"></span>
+               <img src="img/logo.svg" alt="logo da alurabooks">
+            </div>
+
+            <div class="container">
+        
+            <a href="#"></img src="img/favoritos.svg" alt="meus favoritos">
+          <a href="#"><img src="img/Compras.svg" alt="carrinho de compras"
+            CLASS="container_IMAGEM"></a><a 
+            
+            href=""></a>
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+         </header>
+</body>
