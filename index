@@ -32,7 +32,8 @@
                             <a href="#" class="lista-menu__link">busines</a><li>
                       
                         <li class="lista-menu__item">
-                        <a href="#" class="lista-menu__link">design & ux</a></li>
+                        <a href="#" class="lista-menu__link">design & ux</a>
+                    </li>
               <ul>
               
           <img src="img/logo.svg" alt="logo da alurabooks">
@@ -41,7 +42,7 @@
 
             <div class="container">
         
-             <a href="#"></img src="img/favoritos.svg" alt="meus favoritos "  class="container__imagem"></a>
+             <a href="#"></img src="img/Favoritos.svg" alt="meus Favoritos "  class="container__imagem"></a>
 
 
             <a href="#"><img src="img/Compras.svg" alt="carrinho de compras"   class="container__imagem"></a>
